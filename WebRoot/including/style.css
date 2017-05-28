@@ -1,0 +1,29 @@
+A:link {
+	FONT-SIZE: 9pt; 
+	COLOR: #000000; 
+	TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-SIZE: 9pt; 
+	COLOR: #ff0000; 
+	TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-SIZE: 9pt; 
+	COLOR: #0000ff; 
+	TEXT-DECORATION: underline
+}
+.title {
+	font-family: ËÎÌו;
+	FONT-SIZE: 12pt; 
+	COLOR: #FF0000; 
+	margin-top: 10px
+}
+.body {
+	FONT-SIZE: 9pt; 
+	COLOR: #000000; 
+	TEXT-DECORATION: none
+}
+
+td {font-size: 10pt}
+tr {height:30}

@@ -1,0 +1,6 @@
+
+public aspect test {
+	pointcut 
+	
+	
+}
